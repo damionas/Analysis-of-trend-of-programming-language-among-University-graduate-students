@@ -37,3 +37,5 @@
 
 
 The previous charts looks too noisy, A useful technique to make a trend apparent is to smooth out the observations by taking an average. An average of 12 observations is then taken. 
+
+![image](https://user-images.githubusercontent.com/64482231/185480284-d43f3ba0-70a5-4c72-b862-9df0e71b0046.png)
