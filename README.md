@@ -14,7 +14,5 @@
                                
                                
                                To know the popularity of java programming language
-                               
-                               
-                               
-                                ![image](https://user-images.githubusercontent.com/64482231/185466918-0dfcd0d0-22b5-4406-9821-8de0a5c1f9d8.png)
+                 ![image](https://user-images.githubusercontent.com/64482231/185467185-a991447e-c4cf-463f-b8c5-7a18bb74ca8c.png)
+ 
