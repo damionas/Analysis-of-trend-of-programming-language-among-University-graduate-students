@@ -22,3 +22,8 @@
                                 Tp know the popularity and trend of Java Language
 
 ![image](https://user-images.githubusercontent.com/64482231/185468965-8cf739a8-9001-4d72-93c7-c5cac3a95e84.png)
+
+
+                                To compare the growth and downward slide between python and c language
+  
+![image](https://user-images.githubusercontent.com/64482231/185473836-a97f4375-7ceb-425c-b591-214914663e86.png)
