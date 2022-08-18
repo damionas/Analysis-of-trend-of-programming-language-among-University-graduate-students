@@ -31,3 +31,6 @@
 
 ** General Analysis for the Languages**
 ![image](https://user-images.githubusercontent.com/64482231/185476412-dc703d21-1d98-45e8-8d41-c84100846f32.png)
+
+
+                        Looks like Python is the most popular programming language judging by the number of posts on Stack Overflow! Python for the win! =) 
