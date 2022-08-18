@@ -27,3 +27,7 @@
                                 To compare the growth and downward slide between python and c language
   
 ![image](https://user-images.githubusercontent.com/64482231/185473836-a97f4375-7ceb-425c-b591-214914663e86.png)
+
+
+** General Analysis for the Languages**
+![image](https://user-images.githubusercontent.com/64482231/185476412-dc703d21-1d98-45e8-8d41-c84100846f32.png)
