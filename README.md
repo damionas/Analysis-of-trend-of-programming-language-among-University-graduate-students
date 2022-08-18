@@ -34,3 +34,6 @@
 
 
                         Looks like Python is the most popular programming language judging by the number of posts on Stack Overflow! Python for the win! =) 
+
+
+The previous charts looks too noisy, A useful technique to make a trend apparent is to smooth out the observations by taking an average. An average of 12 observations is then taken. 
